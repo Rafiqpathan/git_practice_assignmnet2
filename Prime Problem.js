@@ -8,5 +8,5 @@ for(let i=0;i<=num-1;i++){
 if(count==2){
 	console.log("Yes");
 }else{
-	console.log("");
+	console.log("No");
 }
